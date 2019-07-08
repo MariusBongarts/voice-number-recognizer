@@ -1,0 +1,12 @@
+:host {
+  --app-primary-color: #27945b;
+  --app-error-color: #c5344e;
+  --app-error-info: #14854e;
+  --app-primary-transparent-color: #27945b3b;
+}
+
+  // Bootstrap responsive breakpoints
+  $break-small: 576px;
+  $break-medium: 768px;
+  $break-large: 1092px;
+  $break-extra-large: 1200px;
